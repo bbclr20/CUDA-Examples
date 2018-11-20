@@ -1,6 +1,6 @@
 
 CUDA_FLAGS=-arch sm_60
-TARGETS = hello.out 
+TARGETS=hello.out 
 
 build: $(TARGETS)
 
